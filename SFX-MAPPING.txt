@@ -1,0 +1,9 @@
+bounce.wav = sfx_movement_jump1.wav
+chaos.wav = sfx_sounds_powerup6.wav
+grab.wav = sfx_sounds_negative2.wav
+surge.wav = sfx_lowhealth_alarmloop1.wav
+hit.wav = sfx_damage_hit1.wav
+death.wav = sfx_sounds_falling1.wav
+menu.wav = sfx_menu_select1.wav
+pause.wav = sfx_sounds_pause1_in.wav
+resume.wav = sfx_sounds_pause1_out.wav
